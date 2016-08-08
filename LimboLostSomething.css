@@ -1,0 +1,37 @@
+body {
+	background-image: url("marist.jpg");
+	background-repeat: no-repeat;
+	background-size: 110%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+}
+
+div {
+	background-color: red;
+	border-radius: 25px;
+	width: 600px;
+	height:400px;
+	padding: 50px;
+	border: 50px;
+	position: fixed;
+	top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -350px;
+}
+
+#Info {
+	height:50px;
+	width:350px;
+}
+
+#submitbtn {
+	display: block;
+	margin: 0px auto;
+}
